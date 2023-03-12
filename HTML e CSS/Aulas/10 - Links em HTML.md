@@ -65,7 +65,7 @@ Exemplo **FINAL**:
 >
 ```
 
-- rel="external" - Fora do meu site.
+- rel="_external" - Fora do meu site.
 - target="\_blank" - Vai abrir o link em uma janela em branco.
 
 ---
